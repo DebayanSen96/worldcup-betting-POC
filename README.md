@@ -6,6 +6,7 @@ A decentralized prediction markets platform built on Ethereum, allowing users to
 
 Comprehensive documentation is available in the [docs/](docs/) folder:
 
+- **[LIVE_SEPOLIA_SMOKE_TEST.md](docs/LIVE_SEPOLIA_SMOKE_TEST.md)** - Live Sepolia verification script for the deployed assessment contract
 - **[01-overview.md](docs/01-overview.md)** - Project overview and features
 - **[02-smart-contracts.md](docs/02-smart-contracts.md)** - Smart contract documentation
 - **[03-market-lifecycle.md](docs/03-market-lifecycle.md)** - Market creation, betting, resolution
